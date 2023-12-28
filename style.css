@@ -583,7 +583,7 @@ video{
     color: #fff;
 }
 
-#amarjeet{
+#amit{
     position: absolute;
     bottom: 5%;
     width: 100%;
@@ -591,13 +591,13 @@ video{
     justify-content: center;
 }
 
-#amarjeet h1{
+#amit h1{
     font-size: 1.2vw;
     font-weight: 400;
     letter-spacing: 0.1vw;
 }
 
-#amarjeet h1 span{
+#amit h1 span{
     color: red;
 }
 
